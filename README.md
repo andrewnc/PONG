@@ -1,6 +1,6 @@
 # PONG
 
-A pet project to work with Artificial Intelligent bots. 
+A pet project to work with Artificial Intelligence bots. 
 
 This is a working version of pong using c++. There are three different bots you can play against, with their numbers associated with their difficulties. 
 
