@@ -7,3 +7,6 @@ This is a working version of pong using c++. There are three different bots you 
 The 'best' (most intelligent) bot is bot #2. 
 
 This project may require some c++ configuration on each machine to run, but when you get it to work, it's pretty cool!
+
+
+Note this was built for windows
